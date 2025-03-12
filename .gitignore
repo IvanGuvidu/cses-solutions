@@ -1,3 +1,4 @@
 .vscode
-*/test.in
-*/test.out
+test.out
+main.cpp
+test.in
