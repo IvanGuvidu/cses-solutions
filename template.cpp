@@ -17,7 +17,7 @@ void solve ()
     
 }
 
-int main ()
+signed main ()
 {
     #ifdef LOCAL
         freopen("test.in", "r", stdin);
